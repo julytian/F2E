@@ -7,3 +7,5 @@
 
 ### [Gulp新手入门教程](http://www.w3ctrain.com/2015/12/22/gulp-for-beginners/)
 
+### [前端重构之路（组件化）] (https://imochen.com/2016/01/09/the-path-of-the-front-end-refactoring-componentization/index.html) by 墨尘
+
