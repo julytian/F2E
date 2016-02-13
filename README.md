@@ -25,4 +25,4 @@
 ### [react资料](https://github.com/dwqs/fedHandlebook/blob/master/learning/react.md)
 ### [react技术分享](http://guoyongfeng.github.io/idoc/html/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/React%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB.html)
 
-### [This is about one JS tip every day!](http://www.jstips.co/)
+### [This is about one JS tip every day!](http://www.jstips.co/) [中文版](https://cnodejs.org/topic/56a050ac8392272262331d62)
