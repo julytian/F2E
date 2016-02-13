@@ -1,5 +1,5 @@
 # F2E
- 收藏前端圈的一些细节知识文章
+ 收藏前端圈的一些精彩内容文章
 
 ### [实用的javascript小技巧](http://www.w3ctrain.com/2016/01/19/jstips/) 
 
