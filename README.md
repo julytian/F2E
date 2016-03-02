@@ -27,6 +27,10 @@
 
 ### [This is about one JS tip every day!](http://www.jstips.co/) [中文版](https://cnodejs.org/topic/56a050ac8392272262331d62)
 
+# jQuery
+
+### [jQuery编程的最佳实践](http://www.cnblogs.com/Wayou/p/jquery_best_practise.html)
+
 #面试题
 
 ### [前端面试题精选系列汇总已整理完毕](http://my.oschina.net/u/1792175/blog) by 墨鱼培训
