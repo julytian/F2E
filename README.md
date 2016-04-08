@@ -26,6 +26,7 @@
 ### [react技术分享](http://guoyongfeng.github.io/idoc/html/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/React%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB.html)
 
 ### [This is about one JS tip every day!](http://www.jstips.co/) [中文版](https://cnodejs.org/topic/56a050ac8392272262331d62)
+### [JavaScript中的this陷阱的最全收集](http://t.imooc.com/article/details/id/1379)
 
 # jQuery
 
