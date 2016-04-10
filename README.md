@@ -28,6 +28,8 @@
 ### [This is about one JS tip every day!](http://www.jstips.co/) [中文版](https://cnodejs.org/topic/56a050ac8392272262331d62)
 ### [JavaScript中的this陷阱的最全收集](http://t.imooc.com/article/details/id/1379)
 
+### [你好 ES2015](http://mp.weixin.qq.com/s?__biz=MzA5Njc3Njk5NA==&mid=403045094&idx=1&sn=d097c724b829bdd0ecbd936b6a627c28#rd)
+
 # jQuery
 
 ### [jQuery编程的最佳实践](http://www.cnblogs.com/Wayou/p/jquery_best_practise.html)
