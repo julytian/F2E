@@ -43,3 +43,7 @@
 ### [TortoiseSVN 图文使用教程](http://www.kafan.cn/edu/8086206.html)
 
 ### [前端组件库](http://mtons.com/content/34.htm) 
+
+# 规范
+
+### [Airbnb JavaScript Style Guide] (https://github.com/airbnb/javascript)
